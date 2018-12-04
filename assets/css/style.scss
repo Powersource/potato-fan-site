@@ -3,5 +3,13 @@
 
 @import "{{ site.theme }}";
 
-body {
+.page-header {
+    background-image: url("http://www.brandonbioscience.com/wp-content/uploads/2014/07/Potato-Field-2.jpg");
+    background-position-y: -175px;
+    padding: 10rem 6rem;
+}
+
+.project-tagline {
+    opacity: 1.0;
+    font-weight: bold;
 }
