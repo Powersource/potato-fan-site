@@ -10,3 +10,5 @@ collections:
     output: true
 description: 6th International Potato Conference 21-25 August 2018 Malmö, Sweden
 theme: jekyll-theme-cayman
+github:
+  is_project_page: false
