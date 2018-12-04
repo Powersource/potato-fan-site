@@ -1,0 +1,6 @@
+_site/
+.bundle/
+vendor/
+
+# We'll probably be fine without this one, github probably ignores it anyway
+Gemfile.lock
